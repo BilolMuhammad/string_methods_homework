@@ -6,5 +6,8 @@ def main(s):
     Returns:
         str: answer
     """
-    
-    return
+
+    return s.find('x')
+
+
+print(main('sdfgcx'))
